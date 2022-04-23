@@ -1,3 +1,5 @@
+# Türkçe kısmı / Turkish Part
+
 # Basit Python Hesapmakinesi Projesi
 
 Selam! Ben Poncik. Bu Projede sizlere Python Yazılım dili ile yazılış basit hesapmakinesi yaptım. Eğer paylaşmamı istiyorsanız **3 Star + 1 Fork** atın. iyi günler , iyi kodlamalar.
@@ -13,6 +15,10 @@ Eğer bu projeyi kuramıyorsan [Discord sunucumuza]() gelip ordan yardım alabil
 # Not
 
 Arkadaşlar biliyorum açması zor ama anlatabileceğim kadar anlattım. iyi kodlamalar , iyi günler :)
+
+
+# English Part / İngilizce Kısmı
+
 
 # Basic Python Calculator Project
 
